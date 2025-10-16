@@ -25,6 +25,10 @@ pip install -r requirements.txt
 
 ### Data preparation
 
+#### Pretrain Data
+We built a large-scale time series pretraining dataset for training LightGTS, which has been publicly released on [Google Drive](https://drive.google.com/drive/folders/1HOrsG4OKDm7P2ZgGlihx8GOQhtmuIfF1).
+
+#### Evaluation Data
 Prepare Data. You can obtained the well pre-processed datasets from [OneDrive](https://1drv.ms/u/c/801ce36c4ff3f93b/EVTDLHyvegpEn_Oxa6ZiuFIBjTsKk6m9JldUqWDqvrVCnQ?e=P2T3Vc) or [BaiduCloud](https://pan.baidu.com/s/1W7UoAWKZjoukSZ74FTipYA?pwd=2255). (This may take some time, please wait patiently.) Then place the downloaded data under the folder `./dataset`.
 
 ## Quick Start :rocket:
