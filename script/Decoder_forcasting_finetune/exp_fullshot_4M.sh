@@ -16,7 +16,7 @@ stride=48
 revin=1
 
 model_type='LightGTS_4M_full_shot'
-pretrained_model='/home/LightGTS/checkpoints/LightGTS_4M.pth'
+pretrained_model='./checkpoints/LightGTS_4M.pth'
 
 n_epochs_finetune=20
 n_epochs_freeze=0
