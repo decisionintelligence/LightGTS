@@ -5,6 +5,7 @@
 if you find this project helpful, please don't forget to give it a ⭐ Star to show your support. Thank you!
 
 🚩 News (2025.9) Released  pre-trained LightGTS-Mini on [HuggingFace](https://huggingface.co/DecisionIntelligence/LightGTS).
+
 🚩 News (2025.5) LightGTS  has been accepted  by ICML 2025.
 
 ## Introduction :bulb:
