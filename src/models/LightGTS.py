@@ -18,7 +18,7 @@ import numpy as np
 
             
 # Cell
-class PatchTST(nn.Module):
+class LightGTS(nn.Module):
     """
     Output dimension: 
          [bs x target_dim x nvars] for prediction
