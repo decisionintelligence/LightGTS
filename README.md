@@ -18,7 +18,7 @@ we propose LightGTS, a lightweight general time series forecasting model designe
 
 ### **Installation**
 
-Given a python environment (**note**: this project is fully tested under python 3.8), install the dependencies with the following command:
+Given a python environment (**note**: this project is fully tested under python 3.10.16), install the dependencies with the following command:
 
 ```bash
 pip install -r requirements.txt
